@@ -6,7 +6,7 @@ Howdy! I'm a novice here. I have begun learning Python programming on 10 April 2
  👯 I’m looking to collaborate on a simple Python software that is suitable for me.
  🤔 I’m looking for help with the depths of using GitHub.
  💬 Ask me about Anime !
- 📫 How to reach me: fahimkhan1785@gmail.com
+ 📫 How to reach me: Here 
  😄 Pronouns: He/Him
  ⚡ I like to watch anime as well as playing video games. Also I like reading books.
  
