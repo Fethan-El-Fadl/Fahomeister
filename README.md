@@ -11,4 +11,3 @@ Howdy! I'm a novice here. I have begun learning Python programming on 10 April 2
  ⚡ I like to watch anime as well as playing video games. Also I like reading books.
  
  My Myanimelist account- [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
-
