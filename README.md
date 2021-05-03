@@ -8,5 +8,5 @@
  💬 Ask me about Anime !
  📫 How to reach me: fahimkhan1785@gmail.com
  😄 Pronouns: He/Him
- ⚡ Fun fact: ...
+ ⚡ 
 
