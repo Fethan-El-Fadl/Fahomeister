@@ -1,4 +1,4 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, Fahim Khan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -11,15 +11,6 @@
 - 💬 Ask me about Anime! 
  -📫 How to contact me: [here](fahimkhan1785@gmail.com) 😄 Pronouns: He/Him 
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.tenor.com/images/81e77fbed4b8737b191c0a9ad340be80/tenor.gif />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
-
 ---
 
 ### Contact with me 📝
