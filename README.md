@@ -14,9 +14,9 @@
 ---
 
 ### Connectt with me 📝
- Myanimelist - [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
- Spotify     - [WICKED](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
- Quora       - [Fahim Khan](https://www.quora.com/profile/Fahim-Khan-1024)
+ - Myanimelist - [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
+ - Spotify     - [WICKED](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
+ - Quora       - [Fahim Khan](https://www.quora.com/profile/Fahim-Khan-1024)
 
 <br />
 
