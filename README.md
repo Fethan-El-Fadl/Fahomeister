@@ -1,6 +1,6 @@
 # Hi there, I'm Fahim Khan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-
+<img align="right" alt="GIF" height="160px" src="https://i2.wp.com/i.pinimg.com/originals/a1/b4/f7/a1b4f74fa4a58add2d0ced137d60d7e0.gif" />
 
 ## I'm a novice here. I have begun learning Python programming on 10 April 2021. Furthermore, as of now investigating and discovering that language  
 
@@ -15,7 +15,6 @@
 
 ### Connectt with me 📝
  - Myanimelist - [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
-  <img align="right" alt="PNG" height="30px" src="https://imgur.com/c7bRLB2" />
  - Spotify     - [WICKED](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
  - Quora       - [Fahim Khan](https://www.quora.com/profile/Fahim-Khan-1024)
 
