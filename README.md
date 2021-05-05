@@ -13,10 +13,11 @@
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
 ---
 
-### Connectt with me 📝
+### Connect with me 📝
  - Myanimelist - [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
  - Spotify     - [WICKED](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
  - Quora       - [Fahim Khan](https://www.quora.com/profile/Fahim-Khan-1024)
+ <img align="right" alt="PNG" height="90px" src="https://user-images.githubusercontent.com/76115820/117152658-0c8e6100-addc-11eb-8913-f71b057e76f1.png" />
 
 <br />
 
@@ -31,3 +32,4 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+![https://www.quora.com/profile/Fahim-Khan-1024])
