@@ -1,4 +1,4 @@
-# Hi there, I'm Fahim Khan <img width="30px" src="https://i.redd.it/mggwmhksgfv41.jpg" />
+# Hi there, I'm Fahim Khan <img width="150px" src="https://i.redd.it/mggwmhksgfv41.jpg" />
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/i.pinimg.com/originals/a1/b4/f7/a1b4f74fa4a58add2d0ced137d60d7e0.gif" />
 
