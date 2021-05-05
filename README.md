@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/i.pinimg.com/originals/a1/b4/f7/a1b4f74fa4a58add2d0ced137d60d7e0.gif" />
 
-## I'm a novice here. I have begun learning Python programming on 10 April 2021. Furthermore, as of now investigating and discovering that language  
+## I'm a novice here. I'm 15 years old. I have begun learning Python programming on 10 April 2021. Furthermore, as of now investigating and discovering that language  
 
 - 👨‍💻 🔭 I'm presently chipping away at obtaining better outcomes in my school since I'm an understudy!
 - 📚 I'm right now learning the Python programming language.  😅
