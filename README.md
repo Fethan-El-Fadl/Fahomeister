@@ -32,4 +32,4 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="JnTEIlK"><a href="https://imgur.com/JnTEIlK">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Quora](https://imgur.com/JnTEIlK)
