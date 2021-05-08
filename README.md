@@ -15,7 +15,7 @@
 
 ### Connect with me 📝
  - Myanimelist - [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
- - Spotify     - [WICKED](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
+ - Spotify     - [Aesthetic](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
  - Quora       - [Fahim Khan](https://www.quora.com/profile/Fahim-Khan-1024)
  <img align="right" alt="PNG" height="90px" src="https://user-images.githubusercontent.com/76115820/117152658-0c8e6100-addc-11eb-8913-f71b057e76f1.png" />
 
