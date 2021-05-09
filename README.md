@@ -12,18 +12,9 @@
  -📫 How to contact me: [here](https://myanimelist.net/profile/Scholar_Weeb#lastcomment) 😄 Pronouns: He/Him 
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
 ---
-
-### Connect with me 📝
- - Myanimelist - [Scholar_Weeb](https://myanimelist.net/profile/Scholar_Weeb)
- - Spotify     - [Aesthetic](https://open.spotify.com/user/12i6efj2nobr47n93blrhs195)
- - Quora       - [Fahim Khan](https://www.quora.com/profile/Fahim-Khan-1024)
- <img align="right" alt="PNG" height="90px" src="https://user-images.githubusercontent.com/76115820/117152658-0c8e6100-addc-11eb-8913-f71b057e76f1.png" />
-
 <br />
-
 ---
-
-### Languages and Tools 🛠 
+### Badges 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
