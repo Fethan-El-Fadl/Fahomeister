@@ -9,7 +9,7 @@
 - 💪🏼 I'm hoping to work together on a straightforward Python programming that is appropriate for me.
 - 🤔 I'm searching for assist with the profundities of utilizing GitHub. 
 - 💬 Ask me about Anime! 
-- 📫 How to contact me: [here](https://myanimelist.net/profile/Scholar_Weeb#lastcomment) 😄 Pronouns: He/Him 
+- 📫 How to contact me: [here](https://github.com/Md-Fahim-Khan/Md-Fahim-Khan/issues/new) 😄 Pronouns: He/Him 
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
 ---
 
