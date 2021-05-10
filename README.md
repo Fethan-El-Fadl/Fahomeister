@@ -12,10 +12,9 @@
 - 📫 How to contact me: [here](https://myanimelist.net/profile/Scholar_Weeb#lastcomment) 😄 Pronouns: He/Him 
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
 ---
-<br />
+
 ### Badges 🛠 
-<br />
----
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
