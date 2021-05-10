@@ -13,8 +13,6 @@
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
 ---
 <br />
----
-
 ### Badges 🛠 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
