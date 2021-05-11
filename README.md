@@ -26,6 +26,8 @@
 ![image](https://img.shields.io/badge/MAL-31519e?style=for-the-badge&logo=MyAnimeList&logoColor=white)
 ![Quora](https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white)
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Epic games](https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![Origin](https://img.shields.io/badge/Origin-f05922?style=for-the-badge&logo=Origin&logoColor=white)
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![image](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
