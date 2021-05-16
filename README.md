@@ -22,7 +22,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![image](https://img.shields.io/badge/MAL-31519e?style=for-the-badge&logo=MyAnimeList&logoColor=white)
+![image](https://img.shields.io/badge/MyAnimeList-31519e?style=for-the-badge&logo=MyAnimeList&logoColor=white)
 ![Quora](https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white)
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic games](https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=Epic%20Games&logoColor=white)
