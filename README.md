@@ -1,6 +1,6 @@
-# Hi there, I'm Fahim Khan <img width="50px" src="https://cliply.co/wp-content/uploads/2020/07/432007132_WAVING_HAND_3D_MONOCHROMATIC_400px.gif" />
+# Hi there, I'm Fahim Khan <img width="100px" src="https://i.pinimg.com/originals/30/10/72/30107230e71eae1615527f2c05affad9.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://i2.wp.com/i.pinimg.com/originals/a1/b4/f7/a1b4f74fa4a58add2d0ced137d60d7e0.gif" />
+<img align="right" alt="GIF" height="160px" src="https://64.media.tumblr.com/8b71af54980b9e87e286597fdd38a0d5/tumblr_pdf6g6p0Jr1u7qlfpo2_250.gifv" />
 
 ## I'm a novice here. I'm 15 years old. I have begun learning Python programming on 10 April 2021. Furthermore, as of now investigating and discovering that language  
 
