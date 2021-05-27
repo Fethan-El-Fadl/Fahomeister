@@ -1,8 +1,8 @@
 # Hi there, I'm Fahim Khan <img width="80px" src="https://i.pinimg.com/originals/30/10/72/30107230e71eae1615527f2c05affad9.gif" />
 
-<img align="right" alt="GIF" height="160px" src="http://24.media.tumblr.com/tumblr_m7o9r3iLSG1qau345o3_250.gif" />
+<img align="right" alt="GIF" height="200px" src="http://24.media.tumblr.com/tumblr_m7o9r3iLSG1qau345o3_250.gif" />
 
-## I'm a novice here. I'm 15 years old. I have begun learning Python programming on 10 April 2021. Furthermore, as of now investigating and discovering that language  
+## I'm a novice here. I'm 15 years old secondary-school student who have finished the basics of Python. Furthermore, as of now investigating and discovering that language  
 
 - 👨‍💻 I'm presently chipping away at obtaining better outcomes in my school since I'm an understudy!
 - 🔭 Studying in JLHS, Dhaka, Bangladesh.
