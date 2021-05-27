@@ -9,7 +9,7 @@
 - 📚 I'm right now learning the Python programming language.  😅
 - 💪🏼 I'm hoping to work together on a straightforward Python programming that is appropriate for me.
 - 🤔 I'm searching for assist with the profundities of utilizing GitHub. 
-- 💬 Ask me about Anime! 
+- 💬 Ask me about Anime and video games! 
 - 📫 How to contact me: [here](https://github.com/Md-Fahim-Khan/Md-Fahim-Khan/issues/new) 😄 Pronouns: He/Him 
 - ⚡Fun Fatcs: I like to watch anime just as playing computer games. Additionally, I like understanding books.
 ---
