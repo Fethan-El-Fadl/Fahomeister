@@ -1,4 +1,4 @@
-# Hi there, I'm Fahim Khan <img width="80px" src="https://i0.wp.com/thumbs.gfycat.com/AlarmingSnappyLeafbird-max-1mb.gif?h=250" />
+# Hi there, I'm Fahim Khan <img width="70px" src="https://i0.wp.com/thumbs.gfycat.com/AlarmingSnappyLeafbird-max-1mb.gif?h=250" />
 
 <img align="right" alt="GIF" height="200px" src="http://24.media.tumblr.com/tumblr_m7o9r3iLSG1qau345o3_250.gif" />
 
@@ -21,7 +21,6 @@
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ### Workspace, Office And Designs
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
