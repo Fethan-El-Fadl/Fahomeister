@@ -1,6 +1,6 @@
 # Hi there, I'm Fahim Khan <img width="70px" src="https://i0.wp.com/thumbs.gfycat.com/AlarmingSnappyLeafbird-max-1mb.gif?h=250" />
 
-<img align="right" alt="GIF" height="200px" src="http://24.media.tumblr.com/tumblr_m7o9r3iLSG1qau345o3_250.gif" />
+<img align="right" alt="GIF" height="150px" src="http://24.media.tumblr.com/tumblr_m7o9r3iLSG1qau345o3_250.gif" />
 
 ## I'm a novice here. I'm 15 years old secondary-school student who has finished the basics of Python. Furthermore, as of now investigating and discovering that language  
 ---
