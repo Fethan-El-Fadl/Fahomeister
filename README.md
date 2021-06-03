@@ -22,7 +22,7 @@ I'm presently chipping away at obtaining better outcomes in my school since I'm 
 ![Quora](https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Google Apps](https://img.shields.io/badge/Google%20Apps-4285F4?style=for-the-badge&logo=Google&logoColor=white)
+![Google Apps](https://img.shields.io/badge/Google%20Apps-FFFFFF?style=for-the-badge&logo=Google&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
