@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" height="150px" src="http://24.media.tumblr.com/tumblr_m7o9r3iLSG1qau345o3_250.gif" />
 
-Hello and welcome to my profile! 
- I'm Md Fahim Khan (a.k.a Wicked, Jaaku-Kun) and I'm "/ that". I am 16 years old and am enrolled in a middle school and high school in Dhaka, Bangladesh. I'm from Bangladesh, so if you notice I'm too wondering (like this sentence), please forgive me and correct my spelling. 
+Hello and welcome to my profile!  s
+ I'm Md Fahim Khan (a.k.a Wicked, Jaaku-Kun) and I am "he/him", 16 years old. Currently enrolled in Junior Laboratoy High School, Dhaka, Bangladesh. Came from Bangladesh, so if you notice I spoke so weirdly (like this sentence lol), please forgive me and correct my spelling :')
  
  Im currenly learning the Python programming laguage as I want to become an AI developer in future. .. I like machines and computers. Watching Anime is one of my favorite works as well as playing computer video games. Also, I like reading books very much.
  
