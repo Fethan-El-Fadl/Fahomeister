@@ -28,7 +28,6 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-
 ### Gaming, Anime and Socials
 ![MAL](https://img.shields.io/badge/MyAnimeList-31519e?style=for-the-badge&logo=MyAnimeList&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
@@ -37,6 +36,3 @@
 ![Counter_Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-e71b22?style=for-the-badge&logo=Pinterest&logoColor=white)
-
-
