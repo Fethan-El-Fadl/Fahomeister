@@ -24,11 +24,10 @@
 ![Processor](https://img.shields.io/badge/INTEL-0071C5?style=for-the-badge&logo=INTEL&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-76b900?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Quora](https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Google Apps](https://img.shields.io/badge/Google%20Apps-FFFFFF?style=for-the-badge&logo=Google&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ### Gaming, Anime and Socials
 ![MAL](https://img.shields.io/badge/MyAnimeList-31519e?style=for-the-badge&logo=MyAnimeList&logoColor=white)
