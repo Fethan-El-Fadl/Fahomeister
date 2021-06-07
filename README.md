@@ -1,4 +1,4 @@
-![Stray](https://i.imgur.com/BNF4npA.png?1)
+![Stray](https://i.imgur.com/iUby8ui.jpg)
 
 # Hi there, I'm Fahim Khan <img width="70px" src="https://i0.wp.com/thumbs.gfycat.com/AlarmingSnappyLeafbird-max-1mb.gif?h=250" />
 
