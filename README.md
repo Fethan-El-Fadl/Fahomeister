@@ -15,22 +15,4 @@
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Workspace, Office And Designs
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Processor](https://img.shields.io/badge/INTEL-0071C5?style=for-the-badge&logo=INTEL&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-76b900?style=for-the-badge&logo=NVIDIA&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-b92b27?style=for-the-badge&logo=Quora&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Google Apps](https://img.shields.io/badge/Google%20Apps-FFFFFF?style=for-the-badge&logo=Google&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
-### Gaming, Anime and Socials
-![MAL](https://img.shields.io/badge/MyAnimeList-31519e?style=for-the-badge&logo=MyAnimeList&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Epic games](https://img.shields.io/badge/Epic%20Games-000000?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![Origin](https://img.shields.io/badge/Origin-f05922?style=for-the-badge&logo=Origin&logoColor=white)
-![Counter_Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
