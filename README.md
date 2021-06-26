@@ -1,5 +1,5 @@
 # Hi there, I'm Fahim Khan <img width="70px" src="https://i0.wp.com/thumbs.gfycat.com/AlarmingSnappyLeafbird-max-1mb.gif?h=250" />
-<img align="right" alt="PNG" height="200px" src="https://i.imgur.com/Ol3omAA.png" />
+<img align="right" alt="JPG" height="200px" src="https://i.imgur.com/PHcSnPq.jpg" />
 
 **Hello, and welcome to my profile!**
 
