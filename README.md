@@ -37,4 +37,4 @@ I'm currenly learning the Python programming laguage as I want to become an AI d
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-          anamoly@mail2tor.com
+Contact me: anamoly@mail2tor.com
