@@ -5,7 +5,7 @@
 
   I'm Md Fahim Khan (a.k.a Wicked, Jaaku-Kun) and I am "he/him", 16 years old. Currently enrolled in a secondary school.
 
-  I'm currenly learning the Python programming laguage as I want to become an AI developer in future. .. I like machines and computers. Watching Anime is one of my favorite works as well as playing computer video games. Also, I like reading books very much.
+  I'm currenly learning the Python programming laguage as I want to become an AI developer in future. .. 
 </br>
 Contact me: anamoly@mail2tor.com
  
