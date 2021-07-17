@@ -35,7 +35,3 @@ I'm currenly learning the Python programming laguage as I want to become an AI d
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://i.imgur.com/dIZiURr.png?1'> </a>
   <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://i.imgur.com/l31xOcp.png'> </a>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-  Contact me: anamoly@mail2tor.com
