@@ -8,7 +8,7 @@
   I am "he/him", 16 years old. Currently enrolled in a secondary school.
 I'm currenly learning the Python programming laguage as I want to become an AI developer in future. ..
 </div>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://i.imgur.com/eba2bIC.gif" height = 50width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
