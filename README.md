@@ -1,6 +1,6 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://i.imgur.com/Oc13t7T.jpg" alt="cover" />
-</div>
+
+<img allign = left width="250" width = 250 src="https://i.imgur.com/gez0CZQ.gif" alt="cover" />
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
