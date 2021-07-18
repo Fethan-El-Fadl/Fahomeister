@@ -9,7 +9,7 @@
   I am "he/him", 16 years old. Currently enrolled in a secondary school.
 I'm currenly learning the Python programming laguage as I want to become an AI developer in future. ..
 </div>
-<h2> About Me <img src = "https://i.imgur.com/eba2bIC.gif" height = 50 width = 100px></h2>
+<h2> About Me <img src = "https://i.imgur.com/eba2bIC.gif" height = 100 width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
