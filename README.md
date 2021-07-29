@@ -10,7 +10,7 @@ I'm currenly learning the Python programming laguage as I want to become an AI d
 </div>
 <h2> About Me <img src = "https://i.imgur.com/eba2bIC.gif" height = 100 width = 100px></h2>
 
-<img width="475px" height="188px" align="right" alt="Github" src="" />
+<img width="230px" height="215px" align="right" alt="Github" src="https://i.imgur.com/281SyIa.jpg" />
 
 
 - 🔭 I’m currently working on How to obtaining better outcomes in my school since I'm an understudy!
