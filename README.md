@@ -28,6 +28,7 @@ I'm currenly learning the Python programming laguage as I want to become an AI d
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=google&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<a href=https://www.quora.com/> <img width ='32px' src ='https://i.imgur.com/44IKkME.png'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=pinterest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pinterest.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
