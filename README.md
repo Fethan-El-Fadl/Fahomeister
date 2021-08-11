@@ -28,7 +28,7 @@ Skills: Python
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
 <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
-<a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://i.imgur.com/dIZiURr.png?1'> </a>
+<a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://i.imgur.com/x7a924z.gif'> </a>
   <a href= https://github.com/#76115820?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://i.imgur.com/l31xOcp.png'> </a>
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
