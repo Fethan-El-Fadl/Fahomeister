@@ -1,6 +1,7 @@
 # Welcome to my favorites list 
 Hi! I' am Wicked. The layout you are going to make, I will set it in MyAnimeList, Steam, GitHub and Quora too. 
 ![enter image description here](https://i.imgur.com/7fD4Sej.gif)
+
 Below is a categorized list of what I want in my biography:
 
 
@@ -15,7 +16,8 @@ Python programming.
 ## Likes:
 
 AAA gaming, Anime, Books, Tea.
- *Side note: You can merge Skills and likes as you like.*
+ *Side note: You can merge Skills and likes as you like.* <br/>
+ 
 ![enter image description here](https://i.imgur.com/7fD4Sej.gif)
 ## Favourite Anime genre:
 Psychological, Dark, Action, Myestry, Slice of Life
@@ -33,4 +35,5 @@ Death Note
 
 -Thanks,
 Wicked
+
 ![enter image description here](https://i.imgur.com/WnIov2c.gif)
